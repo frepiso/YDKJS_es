@@ -4,7 +4,7 @@ Esta es una serie de libros que profundizan en los mecanismos centrales del leng
 
 <a href="http://www.ebooks.com/1993212/you-don-t-know-js-up-going/simpson-kyle/"><img src="up_going/cover.jpg" width="75"></a>&nbsp;
 <a href="http://www.ebooks.com/1647631/you-don-t-know-js-scope-closures/simpson-kyle/"><img src="scope_closures/cover.jpg" width="75"></a>&nbsp;
-<a href="http://www.ebooks.com/1734321/you-don-t-know-js-this-object-prototypes/simpson-kyle/"><img src="this_object prototypes/cover.jpg" width="75"></a>&nbsp;
+<a href="http://www.ebooks.com/1734321/you-don-t-know-js-this-object-prototypes/simpson-kyle/"><img src="this_object_prototypes/cover.jpg" width="75"></a>&nbsp;
 <a href="http://www.ebooks.com/1935541/you-don-t-know-js-types-grammar/simpson-kyle/"><img src="types_grammar/cover.jpg" width="75"></a>&nbsp;
 <a href="http://www.ebooks.com/1977375/you-don-t-know-js-async-performance/simpson-kyle/"><img src="async_performance/cover.jpg" width="75"></a>&nbsp;
 <a href="http://www.ebooks.com/2481820/you-don-t-know-js-es6-beyond/simpson-kyle/"><img src="es6_beyond/cover.jpg" width="75"></a>
