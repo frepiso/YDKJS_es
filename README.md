@@ -2,12 +2,12 @@
 
 Esta es una serie de libros que profundizan en los mecanismos centrales del lenguaje JavaScript. La primera edición de la serie ya está completa.
 
-<a href="http://www.ebooks.com/1993212/you-don-t-know-js-up-going/simpson-kyle/"><img src="up %26 going/cover.jpg" width="75"></a>&nbsp;
-<a href="http://www.ebooks.com/1647631/you-don-t-know-js-scope-closures/simpson-kyle/"><img src="scope %26 closures/cover.jpg" width="75"></a>&nbsp;
-<a href="http://www.ebooks.com/1734321/you-don-t-know-js-this-object-prototypes/simpson-kyle/"><img src="this %26 object prototypes/cover.jpg" width="75"></a>&nbsp;
-<a href="http://www.ebooks.com/1935541/you-don-t-know-js-types-grammar/simpson-kyle/"><img src="types %26 grammar/cover.jpg" width="75"></a>&nbsp;
-<a href="http://www.ebooks.com/1977375/you-don-t-know-js-async-performance/simpson-kyle/"><img src="async %26 performance/cover.jpg" width="75"></a>&nbsp;
-<a href="http://www.ebooks.com/2481820/you-don-t-know-js-es6-beyond/simpson-kyle/"><img src="es6 %26 beyond/cover.jpg" width="75"></a>
+<a href="http://www.ebooks.com/1993212/you-don-t-know-js-up-going/simpson-kyle/"><img src="up/going/cover.jpg" width="75"></a>&nbsp;
+<a href="http://www.ebooks.com/1647631/you-don-t-know-js-scope-closures/simpson-kyle/"><img src="scope/closures/cover.jpg" width="75"></a>&nbsp;
+<a href="http://www.ebooks.com/1734321/you-don-t-know-js-this-object-prototypes/simpson-kyle/"><img src="this/object prototypes/cover.jpg" width="75"></a>&nbsp;
+<a href="http://www.ebooks.com/1935541/you-don-t-know-js-types-grammar/simpson-kyle/"><img src="types/grammar/cover.jpg" width="75"></a>&nbsp;
+<a href="http://www.ebooks.com/1977375/you-don-t-know-js-async-performance/simpson-kyle/"><img src="async/performance/cover.jpg" width="75"></a>&nbsp;
+<a href="http://www.ebooks.com/2481820/you-don-t-know-js-es6-beyond/simpson-kyle/"><img src="es6/beyond/cover.jpg" width="75"></a>
 
 Por favor, siéntase libre de contribuir a la calidad de este contenido enviando Prs para mejoras en fragmentos de código, explicaciones, etc. Si bien las correcciones de errores tipográficos son bienvenidas, probablemente se detecten en los procesos de edición normales y, por lo tanto, no son necesariamente tan importantes para este repositorio.
 
